@@ -1,4 +1,5 @@
 Smart Grocery Price Comparator
+
 The Smart Grocery Price Comparator is a professional-grade Streamlit web application designed to optimize consumer grocery spending across five major South African retailers: Checkers, Pick n Pay, Woolworths, Shoprite, and SPAR. The application utilizes a multi-agent orchestration pipeline to normalize natural language input, fetch pricing data, identify optimal shopping strategies, and suggest cost-saving product substitutions.
 
 Key Features
