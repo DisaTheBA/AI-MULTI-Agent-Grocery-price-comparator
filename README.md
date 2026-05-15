@@ -44,12 +44,9 @@ Tools vs. LLM Latency	By using functional tools instead of LLM inference for pri
 Annotated State	Utilizes operator.add to maintain an immutable audit log of all agent actions.
 
 Project Structure:
-
-Plaintex
-/
-├── app.py              # Main application entry point & orchestration
-├── .env                # Configuration management
-└── requirements.txt    # Project dependencies
+ app.py              # Main application entry point & orchestration
+.env                # Configuration management
+requirements.txt    # Project dependencies
 
 Quick Start
 Clone the repository:
