@@ -61,7 +61,7 @@ pip install -r requirements.txt
 Run the application:
 
 Bash
-streamlit run app.py
+streamlit run app v2.py
 Future Roadmap
 Real-time Integration: Transition from simulated pricing to live store API integration.
 
